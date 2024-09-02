@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "t8rgXHv6cX9zCZhiibDz/0Ar+7xOfCQq5QHLJndySPY=",
+  "Source": "NotesService",
+  "BasePath": "_content/NotesService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NotesService\\wwwroot",
+      "Source": "NotesService",
+      "ContentRoot": "C:\\course pikpo\\CourseWork\\ContactsService\\wwwroot\\",
+      "BasePath": "_content/NotesService",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\course pikpo\\CourseWork\\ContactsService\\wwwroot\\Note\\index.html",
+      "SourceId": "NotesService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\course pikpo\\CourseWork\\ContactsService\\wwwroot\\",
+      "BasePath": "_content/NotesService",
+      "RelativePath": "Note/index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Note\\index.html"
+    }
+  ]
+}

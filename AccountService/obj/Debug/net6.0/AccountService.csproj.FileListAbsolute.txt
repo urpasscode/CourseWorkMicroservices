@@ -1,0 +1,164 @@
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\bin\Debug\net6.0\appsettings.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\bin\Debug\net6.0\AccountService.exe
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\bin\Debug\net6.0\AccountService.deps.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\bin\Debug\net6.0\AccountService.runtimeconfig.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\bin\Debug\net6.0\AccountService.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\bin\Debug\net6.0\AccountService.pdb
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.csproj.AssemblyReference.cache
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.AssemblyInfoInputs.cache
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.AssemblyInfo.cs
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets\msbuild.AccountService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets\msbuild.build.AccountService.props
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AccountService.props
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AccountService.props
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\scopedcss\bundle\AccountService.styles.css
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\refint\AccountService.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.pdb
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.genruntimeconfig.cache
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\ref\AccountService.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.csproj.CopyComplete
+C:\Users\Елизавета\Desktop\microservices\CourseWork\AccountService\bin\Debug\net6.0\AccountService.staticwebassets.runtime.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\bin\Debug\net6.0\appsettings.Development.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\bin\Debug\net6.0\appsettings.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\bin\Debug\net6.0\AccountService.staticwebassets.runtime.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\bin\Debug\net6.0\AccountService.exe
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\bin\Debug\net6.0\AccountService.deps.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\bin\Debug\net6.0\AccountService.runtimeconfig.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\bin\Debug\net6.0\AccountService.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\bin\Debug\net6.0\AccountService.pdb
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\bin\Debug\net6.0\Npgsql.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.csproj.AssemblyReference.cache
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.GeneratedMSBuildEditorConfig.editorconfig
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.AssemblyInfoInputs.cache
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.AssemblyInfo.cs
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.csproj.CoreCompileInputs.cache
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.MvcApplicationPartsAssemblyInfo.cs
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.MvcApplicationPartsAssemblyInfo.cache
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets\msbuild.AccountService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets\msbuild.build.AccountService.props
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AccountService.props
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AccountService.props
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets.pack.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets.build.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets.development.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\scopedcss\bundle\AccountService.styles.css
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.csproj.CopyComplete
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\refint\AccountService.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.pdb
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\AccountService.genruntimeconfig.cache
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\AccountService\obj\Debug\net6.0\ref\AccountService.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\bin\Debug\net6.0\appsettings.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\bin\Debug\net6.0\AccountService.staticwebassets.runtime.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\bin\Debug\net6.0\AccountService.exe
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\bin\Debug\net6.0\AccountService.deps.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\bin\Debug\net6.0\AccountService.runtimeconfig.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\bin\Debug\net6.0\AccountService.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\bin\Debug\net6.0\AccountService.pdb
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\AccountService.csproj.AssemblyReference.cache
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\AccountService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\AccountService.AssemblyInfoInputs.cache
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\AccountService.AssemblyInfo.cs
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\AccountService.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\AccountService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\AccountService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets\msbuild.AccountService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets\msbuild.build.AccountService.props
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AccountService.props
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AccountService.props
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\scopedcss\bundle\AccountService.styles.css
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\AccountService.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\refint\AccountService.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\AccountService.pdb
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\AccountService.genruntimeconfig.cache
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\ref\AccountService.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\AccountService\obj\Debug\net6.0\AccountS.230B0D6C.Up2Date
+C:\course pikpo\CourseWork\AccountService\bin\Debug\net6.0\appsettings.Development.json
+C:\course pikpo\CourseWork\AccountService\bin\Debug\net6.0\appsettings.json
+C:\course pikpo\CourseWork\AccountService\bin\Debug\net6.0\AccountService.staticwebassets.runtime.json
+C:\course pikpo\CourseWork\AccountService\bin\Debug\net6.0\AccountService.exe
+C:\course pikpo\CourseWork\AccountService\bin\Debug\net6.0\AccountService.deps.json
+C:\course pikpo\CourseWork\AccountService\bin\Debug\net6.0\AccountService.runtimeconfig.json
+C:\course pikpo\CourseWork\AccountService\bin\Debug\net6.0\AccountService.dll
+C:\course pikpo\CourseWork\AccountService\bin\Debug\net6.0\AccountService.pdb
+C:\course pikpo\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\course pikpo\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\course pikpo\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\course pikpo\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\course pikpo\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\course pikpo\CourseWork\AccountService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\course pikpo\CourseWork\AccountService\bin\Debug\net6.0\Npgsql.dll
+C:\course pikpo\CourseWork\AccountService\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\course pikpo\CourseWork\AccountService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\course pikpo\CourseWork\AccountService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\course pikpo\CourseWork\AccountService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\course pikpo\CourseWork\AccountService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\AccountService.csproj.AssemblyReference.cache
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\AccountService.GeneratedMSBuildEditorConfig.editorconfig
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\AccountService.AssemblyInfoInputs.cache
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\AccountService.AssemblyInfo.cs
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\AccountService.csproj.CoreCompileInputs.cache
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\AccountService.MvcApplicationPartsAssemblyInfo.cs
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\AccountService.MvcApplicationPartsAssemblyInfo.cache
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets.build.json
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets.development.json
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets\msbuild.AccountService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets\msbuild.build.AccountService.props
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AccountService.props
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AccountService.props
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\scopedcss\bundle\AccountService.styles.css
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\AccountS.230B0D6C.Up2Date
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\AccountService.dll
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\refint\AccountService.dll
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\AccountService.pdb
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\AccountService.genruntimeconfig.cache
+C:\course pikpo\CourseWork\AccountService\obj\Debug\net6.0\ref\AccountService.dll

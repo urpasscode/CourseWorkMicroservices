@@ -1,0 +1,164 @@
+C:\Users\Елизавета\Desktop\microservices\ContactsService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Елизавета\Desktop\microservices\ContactsService\bin\Debug\net6.0\appsettings.json
+C:\Users\Елизавета\Desktop\microservices\ContactsService\bin\Debug\net6.0\ContactsService.exe
+C:\Users\Елизавета\Desktop\microservices\ContactsService\bin\Debug\net6.0\ContactsService.deps.json
+C:\Users\Елизавета\Desktop\microservices\ContactsService\bin\Debug\net6.0\ContactsService.runtimeconfig.json
+C:\Users\Елизавета\Desktop\microservices\ContactsService\bin\Debug\net6.0\ContactsService.dll
+C:\Users\Елизавета\Desktop\microservices\ContactsService\bin\Debug\net6.0\ContactsService.pdb
+C:\Users\Елизавета\Desktop\microservices\ContactsService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Елизавета\Desktop\microservices\ContactsService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Елизавета\Desktop\microservices\ContactsService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Елизавета\Desktop\microservices\ContactsService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Елизавета\Desktop\microservices\ContactsService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Елизавета\Desktop\microservices\ContactsService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Елизавета\Desktop\microservices\ContactsService\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Елизавета\Desktop\microservices\ContactsService\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Елизавета\Desktop\microservices\ContactsService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Елизавета\Desktop\microservices\ContactsService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Елизавета\Desktop\microservices\ContactsService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Елизавета\Desktop\microservices\ContactsService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\ContactsService.csproj.AssemblyReference.cache
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\ContactsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\ContactsService.AssemblyInfoInputs.cache
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\ContactsService.AssemblyInfo.cs
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\ContactsService.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\ContactsService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\ContactsService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\staticwebassets\msbuild.ContactsService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\staticwebassets\msbuild.build.ContactsService.props
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ContactsService.props
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ContactsService.props
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\scopedcss\bundle\ContactsService.styles.css
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\ContactsService.csproj.CopyComplete
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\ContactsService.dll
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\refint\ContactsService.dll
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\ContactsService.pdb
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\ContactsService.genruntimeconfig.cache
+C:\Users\Елизавета\Desktop\microservices\ContactsService\obj\Debug\net6.0\ref\ContactsService.dll
+C:\Users\Елизавета\Desktop\microservices\ContactsService\bin\Debug\net6.0\ContactsService.staticwebassets.runtime.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\bin\Debug\net6.0\appsettings.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\bin\Debug\net6.0\ContactsService.staticwebassets.runtime.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\bin\Debug\net6.0\ContactsService.exe
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\bin\Debug\net6.0\ContactsService.deps.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\bin\Debug\net6.0\ContactsService.runtimeconfig.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\bin\Debug\net6.0\ContactsService.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\bin\Debug\net6.0\ContactsService.pdb
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.csproj.AssemblyReference.cache
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.AssemblyInfoInputs.cache
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.AssemblyInfo.cs
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets\msbuild.ContactsService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets\msbuild.build.ContactsService.props
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ContactsService.props
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ContactsService.props
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\scopedcss\bundle\ContactsService.styles.css
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.csproj.CopyComplete
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\refint\ContactsService.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.pdb
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.genruntimeconfig.cache
+C:\Users\Елизавета\Desktop\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ref\ContactsService.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\bin\Debug\net6.0\appsettings.Development.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\bin\Debug\net6.0\appsettings.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\bin\Debug\net6.0\ContactsService.staticwebassets.runtime.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\bin\Debug\net6.0\ContactsService.exe
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\bin\Debug\net6.0\ContactsService.deps.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\bin\Debug\net6.0\ContactsService.runtimeconfig.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\bin\Debug\net6.0\ContactsService.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\bin\Debug\net6.0\ContactsService.pdb
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Npgsql.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.csproj.AssemblyReference.cache
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.GeneratedMSBuildEditorConfig.editorconfig
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.AssemblyInfoInputs.cache
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.AssemblyInfo.cs
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.csproj.CoreCompileInputs.cache
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.MvcApplicationPartsAssemblyInfo.cs
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.MvcApplicationPartsAssemblyInfo.cache
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets\msbuild.ContactsService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets\msbuild.build.ContactsService.props
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ContactsService.props
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ContactsService.props
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets.pack.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets.build.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets.development.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\scopedcss\bundle\ContactsService.styles.css
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.csproj.CopyComplete
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\refint\ContactsService.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.pdb
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.genruntimeconfig.cache
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\ContactsService\obj\Debug\net6.0\ref\ContactsService.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\bin\Debug\net6.0\appsettings.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\bin\Debug\net6.0\ContactsService.staticwebassets.runtime.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\bin\Debug\net6.0\ContactsService.exe
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\bin\Debug\net6.0\ContactsService.deps.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\bin\Debug\net6.0\ContactsService.runtimeconfig.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\bin\Debug\net6.0\ContactsService.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\bin\Debug\net6.0\ContactsService.pdb
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.csproj.AssemblyReference.cache
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.AssemblyInfoInputs.cache
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.AssemblyInfo.cs
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets\msbuild.ContactsService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets\msbuild.build.ContactsService.props
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ContactsService.props
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ContactsService.props
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\scopedcss\bundle\ContactsService.styles.css
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.csproj.CopyComplete
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\refint\ContactsService.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.pdb
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\ContactsService.genruntimeconfig.cache
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\ContactsService\obj\Debug\net6.0\ref\ContactsService.dll

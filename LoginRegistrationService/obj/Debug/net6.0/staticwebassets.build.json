@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "0I1iAfX0cFP+SED/bLnVBCaeL8vdsuJbGxvKFdZ7BDc=",
+  "Source": "LoginRegistrationService",
+  "BasePath": "_content/LoginRegistrationService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LoginRegistrationService\\wwwroot",
+      "Source": "LoginRegistrationService",
+      "ContentRoot": "C:\\course pikpo\\CourseWork\\LoginRegistrationService\\wwwroot\\",
+      "BasePath": "_content/LoginRegistrationService",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\course pikpo\\CourseWork\\LoginRegistrationService\\wwwroot\\index.html",
+      "SourceId": "LoginRegistrationService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\course pikpo\\CourseWork\\LoginRegistrationService\\wwwroot\\",
+      "BasePath": "_content/LoginRegistrationService",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\course pikpo\\CourseWork\\LoginRegistrationService\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LoginRegistrationService.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LoginRegistrationService.props",
+      "PackagePath": "build\\LoginRegistrationService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LoginRegistrationService.props",
+      "PackagePath": "buildMultiTargeting\\LoginRegistrationService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LoginRegistrationService.props",
+      "PackagePath": "buildTransitive\\LoginRegistrationService.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

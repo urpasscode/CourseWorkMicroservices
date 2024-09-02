@@ -1,0 +1,197 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Аккаунт</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.0/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="header">
+        <div class="header_p"><h3>Аккаунт</h3></div>
+        <div class="header_p">
+            <button type="button" class="btn btn-outline-primary" id="contact_Link">Заметки</button>
+            <button type="button" class="btn btn-outline-primary" onclick="window.location.href='https://localhost:7077/'">Выйти</button>
+        </div>
+    </div>
+    <hr />
+    <form name="accountForm">
+        <input type="hidden" name="id" value="0" />
+        <div class="form-group col-md-3">
+            <label for="email">Электронная почта</label>
+            <input id="email" class="form-control" name="Email" />
+        </div>
+        <div class="form-group col-md-3">
+            <label for="password">Пароль</label>
+            <input id="password" class="form-control" name="Password" />
+        </div>
+        <div class="panel-body">
+            <button type="button" id="edit_but">Изменить</button>
+        </div>
+        <p></p>
+        <div class="panel-body">
+            <button type="button" id="delete_but">Удалить аккаунт</button>
+        </div>
+        <p></p>
+    </form>
+    <style>
+
+       
+        .header {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            background-color: #3498db; /* Blue header */
+            color: #fff; /* White text */
+            padding: 10px 20px;
+        }
+
+        .header_p {
+            margin-top: 0;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+
+            .header_p button {
+                margin-left: 10px;
+                margin-right: 30px;
+                background-color: #2980b9; /* Darker blue for buttons */
+                border-color: #2980b9;
+            }
+
+                .header_p button:hover {
+                    background-color: #21618c; /* Even darker blue on hover */
+                }
+
+
+        .form-group {
+            height: 100%;
+            width: 100%;
+            z-index: 1;
+            padding-left: 0;
+            cursor: pointer;
+            border-width: 2px;
+            border-color: #000000;
+            border-radius: 5px;
+            font-size: 20px;
+            font-weight: 500;
+            margin: 0 auto;
+        }
+
+
+        #delete_but {
+            height: 40px;
+            width: 300px;
+            z-index: 1;
+            border-width: 1px;
+            border-color: #000000;
+            background-color: #3498db;
+            padding-left: 0;
+            border-radius: 5px;
+            font-size: 20px;
+            font-weight: lighter;
+            cursor: pointer;
+            margin: 0 auto;
+            display: block;
+            margin-top: 10px;
+        }
+
+        #edit_but {
+            height: 40px;
+            width: 300px;
+            z-index: 1;
+            border-width: 1px;
+            border-color: #000000;
+            background-color: #3498db;
+            padding-left: 0;
+            border-radius: 5px;
+            font-size: 20px;
+            font-weight: lighter;
+            cursor: pointer;
+            margin: 0 auto;
+            display: block;
+            margin-top: 40px;
+        }
+
+            
+ </style>
+</body>
+</html>
+
+<script>
+    let user_id = new URLSearchParams(window.location.search).get("id_user");
+    console.log(user_id);
+    document.location.replace = "https://localhost:7077/Account";
+    var contactButton = document.getElementById('contact_Link');
+    contactButton.addEventListener('click', function () {
+        window.location.href = `https://localhost:7082/Note?id_User=${user_id}`;
+    });
+    // Получение одного пользователя
+    async function GetUser(id_user) {
+        const response = await fetch(`/Account/Account?id_user=${id_user}`, {
+            method: "GET",
+            headers: { "Accept": "application/json" }
+        });
+        if (response.ok === true) {
+            const user = await response.json();
+            console.log(user);
+            const form = document.forms["accountForm"];
+            form.elements["id"].value = user.id_user;
+            form.elements["email"].value = user.email;
+            form.elements["password"].value = user.password;
+        }
+    }
+    // Изменение аккаунта
+    async function EditUser(Id, Email, Password) {
+        const response = await fetch("/Account/Account", {
+            method: "PUT",
+            headers: { "Accept": "application/json", "Content-Type": "application/json" },
+            body: JSON.stringify({
+                id_User: parseInt(Id, 10),
+                email: Email,
+                password: Password
+            })
+        });
+        if (response.ok === true) {
+            const user = await response.json();
+            console.log(user);
+        }
+    }
+    // Удаление пользователя
+    async function DeleteUser(Id_user) {
+        const response = await fetch(`/Account/Account?id=${Id_user} `, {
+            method: "DELETE",
+            headers: { "Accept": "application/json" }
+        });
+        if (response.ok === true) {
+            const user = await response.json();
+            console.log(user);
+        }
+    }
+    const editButton = document.getElementById("edit_but");
+    const deleteButton = document.getElementById("delete_but");
+    editButton.addEventListener('click', function () {
+        const form = document.forms["accountForm"];
+        const email = form.elements["email"].value;
+        const password = form.elements["password"].value;
+        console.log(email, password);
+        if (window.confirm("Do you really want to change data?")) {
+            EditUser(user_id, email, password);
+        }
+
+    });
+    deleteButton.addEventListener('click', function () {
+        if (window.confirm("Do you really want to delete your account?")) {
+            DeleteUser(user_id);
+            window.location.href = `https://localhost:7077`;
+
+        }
+
+        document.location.replace = "https://localhost:7077/Account";
+    });
+
+    GetUser(user_id);
+
+</script>
+</body>
+</html>

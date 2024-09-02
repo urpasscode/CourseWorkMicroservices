@@ -1,0 +1,190 @@
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\bin\Debug\net6.0\appsettings.json
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\bin\Debug\net6.0\ocelot.json
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.exe
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.deps.json
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.runtimeconfig.json
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.dll
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.pdb
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\bin\Debug\net6.0\IPAddressRange.dll
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\bin\Debug\net6.0\Ocelot.dll
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.csproj.AssemblyReference.cache
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.AssemblyInfoInputs.cache
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.AssemblyInfo.cs
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets\msbuild.APIGatewayServices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets\msbuild.build.APIGatewayServices.props
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIGatewayServices.props
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIGatewayServices.props
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\scopedcss\bundle\APIGatewayServices.styles.css
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.csproj.CopyComplete
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.dll
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\refint\APIGatewayServices.dll
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.pdb
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.genruntimeconfig.cache
+C:\Users\Елизавета\Desktop\microservices\Microservices\APIGatewayServices\obj\Debug\net6.0\ref\APIGatewayServices.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\appsettings.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\ocelot.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.exe
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.deps.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.runtimeconfig.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.pdb
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\IPAddressRange.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Ocelot.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.csproj.AssemblyReference.cache
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.AssemblyInfoInputs.cache
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.AssemblyInfo.cs
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets\msbuild.APIGatewayServices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets\msbuild.build.APIGatewayServices.props
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIGatewayServices.props
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIGatewayServices.props
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\scopedcss\bundle\APIGatewayServices.styles.css
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.csproj.CopyComplete
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\refint\APIGatewayServices.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.pdb
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.genruntimeconfig.cache
+C:\Users\Елизавета\Desktop\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\ref\APIGatewayServices.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\appsettings.Development.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\appsettings.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\ocelot.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.exe
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.deps.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.runtimeconfig.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.pdb
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\FluentValidation.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\IPAddressRange.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Ocelot.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.csproj.AssemblyReference.cache
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.AssemblyInfoInputs.cache
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.AssemblyInfo.cs
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.csproj.CoreCompileInputs.cache
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.MvcApplicationPartsAssemblyInfo.cs
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.MvcApplicationPartsAssemblyInfo.cache
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets\msbuild.APIGatewayServices.Microsoft.AspNetCore.StaticWebAssets.props
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets\msbuild.build.APIGatewayServices.props
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIGatewayServices.props
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIGatewayServices.props
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets.pack.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets.build.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets.development.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\scopedcss\bundle\APIGatewayServices.styles.css
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.csproj.CopyComplete
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\refint\APIGatewayServices.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.pdb
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.genruntimeconfig.cache
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\ref\APIGatewayServices.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\appsettings.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\ocelot.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.exe
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.deps.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.runtimeconfig.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.pdb
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\IPAddressRange.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Ocelot.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.csproj.AssemblyReference.cache
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.AssemblyInfoInputs.cache
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.AssemblyInfo.cs
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets\msbuild.APIGatewayServices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets\msbuild.build.APIGatewayServices.props
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIGatewayServices.props
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIGatewayServices.props
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\scopedcss\bundle\APIGatewayServices.styles.css
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\refint\APIGatewayServices.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.pdb
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.genruntimeconfig.cache
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\ref\APIGatewayServices.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatew.F6211859.Up2Date
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\appsettings.Development.json
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\appsettings.json
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\ocelot.json
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.exe
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.deps.json
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.runtimeconfig.json
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.dll
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\APIGatewayServices.pdb
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\FluentValidation.dll
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\IPAddressRange.dll
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\bin\Debug\net6.0\Ocelot.dll
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.csproj.AssemblyReference.cache
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.AssemblyInfoInputs.cache
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.AssemblyInfo.cs
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.csproj.CoreCompileInputs.cache
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.MvcApplicationPartsAssemblyInfo.cs
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.MvcApplicationPartsAssemblyInfo.cache
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets.build.json
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets.development.json
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets\msbuild.APIGatewayServices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets\msbuild.build.APIGatewayServices.props
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIGatewayServices.props
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIGatewayServices.props
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\staticwebassets.pack.json
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\scopedcss\bundle\APIGatewayServices.styles.css
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatew.F6211859.Up2Date
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.dll
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\refint\APIGatewayServices.dll
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.pdb
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\APIGatewayServices.genruntimeconfig.cache
+C:\course pikpo\CourseWork\Microservices\APIGatewayServices\obj\Debug\net6.0\ref\APIGatewayServices.dll

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "U4NTdL2Hn5mBbscGNF0PMVe9Sdjr+xCkO1ee7x02GfE=",
+  "Source": "AccountService",
+  "BasePath": "_content/AccountService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AccountService\\wwwroot",
+      "Source": "AccountService",
+      "ContentRoot": "C:\\course pikpo\\CourseWork\\AccountService\\wwwroot\\",
+      "BasePath": "_content/AccountService",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\course pikpo\\CourseWork\\AccountService\\wwwroot\\Account\\index.html",
+      "SourceId": "AccountService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\course pikpo\\CourseWork\\AccountService\\wwwroot\\",
+      "BasePath": "_content/AccountService",
+      "RelativePath": "Account/index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Account\\index.html"
+    }
+  ]
+}

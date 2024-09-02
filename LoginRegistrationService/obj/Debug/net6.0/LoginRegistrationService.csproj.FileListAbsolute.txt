@@ -1,0 +1,205 @@
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\bin\Debug\net6.0\appsettings.json
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.exe
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.deps.json
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.runtimeconfig.json
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.dll
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.pdb
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.csproj.AssemblyReference.cache
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.AssemblyInfoInputs.cache
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.AssemblyInfo.cs
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\staticwebassets\msbuild.LoginRegistrationService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\staticwebassets\msbuild.build.LoginRegistrationService.props
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LoginRegistrationService.props
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LoginRegistrationService.props
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\scopedcss\bundle\LoginRegistrationService.styles.css
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.csproj.CopyComplete
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.dll
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\refint\LoginRegistrationService.dll
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.pdb
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.genruntimeconfig.cache
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\obj\Debug\net6.0\ref\LoginRegistrationService.dll
+C:\Users\Елизавета\Desktop\microservices\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.staticwebassets.runtime.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\appsettings.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.staticwebassets.runtime.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.exe
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.deps.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.runtimeconfig.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.pdb
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.csproj.AssemblyReference.cache
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.AssemblyInfoInputs.cache
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.AssemblyInfo.cs
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets\msbuild.LoginRegistrationService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets\msbuild.build.LoginRegistrationService.props
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LoginRegistrationService.props
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LoginRegistrationService.props
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\scopedcss\bundle\LoginRegistrationService.styles.css
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.csproj.CopyComplete
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\refint\LoginRegistrationService.dll
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.pdb
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.genruntimeconfig.cache
+C:\Users\Елизавета\Desktop\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\ref\LoginRegistrationService.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\appsettings.Development.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\appsettings.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.staticwebassets.runtime.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.exe
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.deps.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.runtimeconfig.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.pdb
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Npgsql.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.csproj.AssemblyReference.cache
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.GeneratedMSBuildEditorConfig.editorconfig
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.AssemblyInfoInputs.cache
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.AssemblyInfo.cs
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.csproj.CoreCompileInputs.cache
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.MvcApplicationPartsAssemblyInfo.cs
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.MvcApplicationPartsAssemblyInfo.cache
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets\msbuild.LoginRegistrationService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets\msbuild.build.LoginRegistrationService.props
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LoginRegistrationService.props
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LoginRegistrationService.props
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets.pack.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets.build.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets.development.json
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\scopedcss\bundle\LoginRegistrationService.styles.css
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.csproj.CopyComplete
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\refint\LoginRegistrationService.dll
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.pdb
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.genruntimeconfig.cache
+D:\4 course\Проектирование и конструирование ПО\microservices\CourseWork\LoginRegistrationService\obj\Debug\net6.0\ref\LoginRegistrationService.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\bin\Debug\net6.0\appsettings.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.staticwebassets.runtime.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.exe
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.deps.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.runtimeconfig.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.pdb
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.csproj.AssemblyReference.cache
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.AssemblyInfoInputs.cache
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.AssemblyInfo.cs
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets\msbuild.LoginRegistrationService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets\msbuild.build.LoginRegistrationService.props
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LoginRegistrationService.props
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LoginRegistrationService.props
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\scopedcss\bundle\LoginRegistrationService.styles.css
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\refint\LoginRegistrationService.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.pdb
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.genruntimeconfig.cache
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\ref\LoginRegistrationService.dll
+C:\Users\Админ\Documents\ПиКПО\курсовая\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginReg.92B9BAE2.Up2Date
+C:\course pikpo\CourseWork\LoginRegistrationService\bin\Debug\net6.0\appsettings.Development.json
+C:\course pikpo\CourseWork\LoginRegistrationService\bin\Debug\net6.0\appsettings.json
+C:\course pikpo\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.staticwebassets.runtime.json
+C:\course pikpo\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.exe
+C:\course pikpo\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.deps.json
+C:\course pikpo\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.runtimeconfig.json
+C:\course pikpo\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.dll
+C:\course pikpo\CourseWork\LoginRegistrationService\bin\Debug\net6.0\LoginRegistrationService.pdb
+C:\course pikpo\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\course pikpo\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\course pikpo\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\course pikpo\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\course pikpo\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\course pikpo\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\course pikpo\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Npgsql.dll
+C:\course pikpo\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\course pikpo\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\course pikpo\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\course pikpo\CourseWork\LoginRegistrationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\course pikpo\CourseWork\LoginRegistrationService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.csproj.AssemblyReference.cache
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.AssemblyInfoInputs.cache
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.AssemblyInfo.cs
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.csproj.CoreCompileInputs.cache
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.MvcApplicationPartsAssemblyInfo.cs
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.MvcApplicationPartsAssemblyInfo.cache
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets.build.json
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets.development.json
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets\msbuild.LoginRegistrationService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets\msbuild.build.LoginRegistrationService.props
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LoginRegistrationService.props
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LoginRegistrationService.props
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\scopedcss\bundle\LoginRegistrationService.styles.css
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginReg.92B9BAE2.Up2Date
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.dll
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\refint\LoginRegistrationService.dll
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.pdb
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\LoginRegistrationService.genruntimeconfig.cache
+C:\course pikpo\CourseWork\LoginRegistrationService\obj\Debug\net6.0\ref\LoginRegistrationService.dll
